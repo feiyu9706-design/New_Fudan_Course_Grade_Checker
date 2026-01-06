@@ -1,0 +1,2 @@
+# New_Fudan_Course_Grade_Checker
+定时检测新版教务系统中的成绩，用QQ邮箱SMTP服务推送成绩更新到学邮。
